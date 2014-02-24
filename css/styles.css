@@ -1,1 +1,13 @@
 /* Your Awesome Website */
+
+body {
+	background: black;
+}
+
+footer {
+	color: white;
+}
+
+.h3 {
+	color: red;
+}
